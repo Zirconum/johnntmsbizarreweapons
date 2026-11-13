@@ -1,2 +1,2 @@
 # johnntmsbizarreweapons
-Addons for an SMP
+Brewing some addons for an SMP
